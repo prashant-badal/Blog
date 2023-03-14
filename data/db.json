@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "InOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB...",
+      "body": "gvhhjgjiilkjhghjkjhghlk.j,hmjkjhmhjj,hm,m",
+      "images": "https://i.dummyjson.com/data/products/9/1.jpg",
+      "author": "Badal"
+    },
+    {
+      "title": "  navigation('/');",
+      "author": "author1",
+      "body": "  navigation('/');",
+      "images": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2023/03/virat-kohli-visits-another-temple-reminding-netizens-of-his-old-remark-do-i-look-like-the-pooja-path-types-netizens-credit-anushka-sharma-002.jpg",
+      "description": "jkhgv",
+      "id": 7
+    },
+    {
+      "title": "salman",
+      "author": "author1",
+      "body": "bgaaiiia",
+      "images": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2023/03/salman-khan-ignore-journalist-named-aishwarya-01.jpg",
+      "description": "jkhgv",
+      "id": 8
+    }
+  ]
+}

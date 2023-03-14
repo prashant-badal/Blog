@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Climate+Crisis&family=Roboto+Condensed:wght@300;400&family=Roboto:wght@100&family=Tilt+Neon&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+font-family: 'Archivo Black', sans-serif;
+}
+
+
+::selection{
+    background-color:white;
+    color:black;
+}
+span{
+    cursor: pointer;
+}
+
+span:hover{
+    color:#fff;
+}
+
+input ,option, select ,textarea {
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin:1rem  0.5rem
+
+}
